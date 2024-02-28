@@ -1,0 +1,58 @@
+.main {
+    margin-left: 30px; /* Adjust as needed */
+    margin-right: 30px; /* Adjust as needed */
+    margin-top: -25%;
+  }
+.main p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #454545;
+}  
+
+.inclucion{
+    margin-top: 100px;
+    background: #5a1b1b;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+.cancelationPolicy{
+    margin-top: 50px ;
+    background: #5a1b1b;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+.myTicket{
+    margin-top: 50px;
+    background: #5a1b1b;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+.rating-container{
+    margin-top: 50px;
+    margin-bottom: 46px;
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+.review-boxes {
+    margin-top: 40px;
+    margin-left: 23px;
+    margin-right: 10px;
+}
+
+.review{
+    margin-top: 2rem;
+}
+
+.comboDeal{
+    margin-top: -42%;
+}
+
+  
